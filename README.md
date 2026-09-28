@@ -186,7 +186,7 @@ initialize a git repository here and commit + push the changes to this remote ht
 5. Expand **Environment Variables**:
    - **Key**: `GEMINI_API_KEY`
    - **Value**: *(Paste your Gemini API key from Google AI Studio)*
-   - Click **Add**.
+   - Click **Add**. (add env variables)
 6. Click **Deploy**.
 7. In under a minute, your spicy Code Roaster app is live on a `.vercel.app` URL! 🎉
 
